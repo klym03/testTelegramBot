@@ -11,7 +11,7 @@
 TOKEN = 'токен'
     
 
-3. Встановіть залежності:
+Встановіть залежності:
 
     ```bash
     pip install -r requirements.txt

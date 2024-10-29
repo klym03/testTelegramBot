@@ -1,0 +1,52 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python egg files
+*.egg
+*.egg-info/
+*.whl
+
+# Pytest
+.cache/
+*.cover
+*.coverage
+nosetests.xml
+coverage.xml
+*.log
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
